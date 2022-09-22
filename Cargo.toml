@@ -1,0 +1,12 @@
+[package]
+name = "web-lang"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Alexander van Ratingen"]
+homepage = "https://github.com/alvra/web-lang"
+repository = "https://github.com/alvra/web-lang"
+documentation = "https://docs.rs/web-lang"
+description = "Match languages with the http `Accept-Language` header."
+readme = "README.md"
+keywords = ["http", "i18n", "language"]
